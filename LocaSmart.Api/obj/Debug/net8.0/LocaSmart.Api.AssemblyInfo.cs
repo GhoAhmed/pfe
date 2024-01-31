@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocaSmart.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12341be8d645450cf0ad835fd0c4eae3401b0dfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocaSmart.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocaSmart.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EX4xeKxfzfnOOrWaY/krNZ77410hfE2DgZhFql7Sg4w=",
+  "Source": "LocaSmart.Api",
+  "BasePath": "_content/LocaSmart.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
